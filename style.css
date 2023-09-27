@@ -1,0 +1,22 @@
+.barra{
+  background-color: gray;
+  color: azure;
+}
+.barra p{
+  text-align: left;
+  margin-right: 40px;
+  margin-left: 70px;
+  display: inline-block;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer{
+  background-color: rgb(88, 87, 87);
+  color: bisque;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 0;
+}
+footer p{
+  margin-left: 40px;
+
+}
